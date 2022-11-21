@@ -19,3 +19,5 @@ print(f"After dividing Two arrays :{div}")
 
 power_2 = np.power(array_1,2)
 print(power_2)
+
+print("thats all")
